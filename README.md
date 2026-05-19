@@ -69,12 +69,7 @@ Real-time expense tracking app with authentication, CRUD, expense charts, and da
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keya-sonaiya&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keya-sonaiya&layout=compact&theme=tokyonight" height="160"/>
-</p>
 
 ---
 
