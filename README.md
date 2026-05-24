@@ -1,99 +1,151 @@
-<h1 align="center">Hi, I'm Keya Sonaiya 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Final-year CS Student · AI/ML · Generative AI · Deep Learning</b><br/>
-  <i>Building production-ready intelligent systems for real-world impact</i>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Keya%20Sonaiya&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Generative%20AI%20%C2%B7%20Deep%20Learning&descAlignY=58&descSize=18&descColor=a78bfa"/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/keyasonaiya"><img src="https://img.shields.io/badge/LinkedIn-keyasonaiya-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:keyasonaiya.266@gmail.com"><img src="https://img.shields.io/badge/Gmail-keyasonaiya.266-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/keya-sonaiya"><img src="https://img.shields.io/badge/GitHub-keya--sonaiya-181717?style=flat&logo=github&logoColor=white"/></a>
-</p>
+</div>
+
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/keyasonaiya)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keyasonaiya.266@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keya-sonaiya)
+
+</div>
+
+<br/>
+
+```python
+class KeyaSonaiya:
+    role        = "Final-year CS Student @ CHARUSAT  |  GPA 9.22/10"
+    location    = "Jamnagar, Gujarat, India 🇮🇳"
+    focus       = ["Generative AI", "RAG Systems", "Explainable Deep Learning",
+                   "Probabilistic Forecasting"]
+    building    = "Production-ready AI systems that solve real problems"
+    available   = True   # open to internships & collaborations
+```
+
+<br/>
 
 ---
 
-## 🚀 About Me
+## ✦ Featured Projects
 
-- 🎓 B.Tech CSE at **CHARUSAT** (CGPA: 9.22/10) — graduating 2027
-- 🤖 Passionate about **Generative AI, RAG systems, and explainable deep learning**
-- 🔬 I build things with LangChain, LangGraph, FastAPI, LightGBM, and TensorFlow
-- 📍 Based in Jamnagar, Gujarat, India
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 CareerCopilot
+**Resume-aware AI job application companion**
+
+[![Repo](https://img.shields.io/badge/View%20Repo-%23181717?style=flat-square&logo=github)](https://github.com/keya-sonaiya/CareerCopilot)
+
+Agentic pipeline that reads your resume, scores skill-match against job descriptions, researches companies via DuckDuckGo, and writes tailored cover letters — all with cross-session memory.
+
+`LangGraph` `LangChain` `RAG` `FastAPI` `Next.js` `Ollama`
+
+</td>
+<td width="50%" valign="top">
+
+### 🫁 Pneumonia Detection
+**Explainable AI for chest X-ray diagnosis**
+
+[![Repo](https://img.shields.io/badge/View%20Repo-%23181717?style=flat-square&logo=github)](https://github.com/keya-sonaiya/Pneumonia-Detection)
+
+DenseNet121 classifier with two-stage fine-tuning reaching **93% accuracy · 0.97 recall**. Occlusion Sensitivity heatmaps make every prediction interpretable for clinicians.
+
+`DenseNet121` `TensorFlow` `Explainable AI` `FastAPI` `Next.js`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 Time Series Forecasting
+**Uncertainty-aware probabilistic forecasting**
+
+[![Repo](https://img.shields.io/badge/View%20Repo-%23181717?style=flat-square&logo=github)](https://github.com/keya-sonaiya/Time-Series-Forecasting)
+
+Conformal prediction intervals on LightGBM with leakage-safe feature engineering. Evaluated across short / medium / long horizons using CRPS & Winkler scores.
+
+`LightGBM` `Conformal Prediction` `Streamlit` `FastAPI` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### 💸 FinTrack
+**Personal finance tracker mobile app**
+
+[![Repo](https://img.shields.io/badge/View%20Repo-%23181717?style=flat-square&logo=github)](https://github.com/keya-sonaiya/FinTrack)
+
+Real-time CRUD finance tracker with categorized transactions, animated expense charts, and searchable history — built during my Flutter internship at Sparks To Ideas.
+
+`Flutter` `Dart` `Supabase` `fl_chart`
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
+
+<br/>
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-**AI / ML**
+**AI / ML & Data**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-009B72?style=for-the-badge&logo=lightgbm&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-**Frameworks & Tools**
+**Generative AI & LLM**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
----
+**Frameworks & DevOps**
 
-## 🔥 Featured Projects
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🤖 [CareerCopilot](https://github.com/keya-sonaiya/CareerCopilot)
-> Resume-aware job application companion powered by LangGraph + RAG
-
-- Multi-step agentic pipeline with live progress tracking
-- Skill-match scoring, tailored cover letter generation, and DuckDuckGo-based company research
-- Built with **LangGraph · LangChain Ollama · FastAPI · Next.js**
-
----
-
-### 🫁 [Chest X-Ray Pneumonia Detection](https://github.com/keya-sonaiya/Pneumonia-Detection)
-> Explainable AI model for medical imaging — **93% accuracy · 0.97 recall**
-
-- DenseNet121 classifier with two-stage fine-tuning
-- Occlusion Sensitivity heatmaps for visual explainability
-- Full-stack deployment via **FastAPI + Next.js**
+<br/>
 
 ---
 
-### 📈 [Time Series Forecasting with Uncertainty Quantification](https://github.com/keya-sonaiya/Time-Series-Forecasting)
-> Probabilistic forecasting pipeline with conformal prediction intervals
+## 🏅 Certifications
 
-- Leakage-safe feature engineering + chronological data splits
-- Evaluated with CRPS & Winkler scores across short/medium/long horizons
-- Served via **Streamlit · FastAPI · Docker**
+| Certificate | Issuer | Year |
+|---|---|---|
+| 🧠 Deep Learning Specialization | DeepLearning.AI · Coursera | 2026 |
+| 📊 IBM Machine Learning Professional | IBM · Coursera | 2025 |
+| ⚙️ DevOps, Agile & Scrum Foundations | Coursera | 2025 |
+| 🗄️ DBMS — Elite, NPTEL | IIT / NPTEL | 2025 |
 
----
-
-## 📜 Certifications
-
-- 🧠 Deep Learning Specialization — *DeepLearning.AI, Coursera* (Mar 2026)
-- 📊 IBM Machine Learning Professional Certificate — *Coursera* (Sep 2025)
-- ⚙️ DevOps, Agile & Scrum Foundations — *Coursera* (Sep 2025)
+<br/>
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keya-sonaiya&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keya-sonaiya&layout=compact&theme=default&hide_border=true" height="165"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Let%27s%20build%20something%20intelligent%20together&fontSize=18&fontColor=a78bfa&fontAlignY=65"/>
 
----
-
-<p align="center">
-  <i>"Building scalable intelligent systems — one model at a time."</i>
-</p>
+</div>
