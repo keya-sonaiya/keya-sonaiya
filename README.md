@@ -18,10 +18,10 @@
 
 ```python
 class KeyaSonaiya:
-    role        = "Final-year CS Student @ CHARUSAT  |  GPA 9.22/10"
+    role        = "Final-year CS Student @ CHARUSAT  |  CGPA 9.22/10"
     location    = "Jamnagar, Gujarat, India 🇮🇳"
-    worked_on   = ["Agentic AI", "RAG Systems", "LLMs", "Explainable DL Models",
-                   "Probabilistic ML", "Computer Vision", "Time Series Forecasting"]
+    worked_on   = ["Agentic AI", "RAG Systems", "LLMs", "Generative AI",
+                   "Deep Learning", "NLP", "Probabilistic Forecasting"]
     building    = "Production-ready AI systems that solve real problems"
     available   = True   # open to internships & full time opportunities
 ```
@@ -38,6 +38,20 @@ class KeyaSonaiya:
 <tr>
 <td width="33%" valign="top" align="center">
 
+### 🧠 Adaptive Research Agent
+
+**Output-Aware Autonomous Research System**
+
+[![Repo](https://img.shields.io/badge/View%20Repo-%237c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keya-sonaiya/Adaptive-Research-Agent)
+
+<p align="justify">Autonomous research agent with LangGraph state-graph orchestration that plans sub-queries, researches via Tavily with credibility scoring, and auto-routes output to text, chart, or docx/PDF — with SSE-streamed reasoning and SQLite-persisted sessions.</p>
+
+`LangGraph` `Ollama` `SSE`
+`SQLite` `Next.js`
+
+</td>
+<td width="33%" valign="top" align="center">
+
 ### 🤖 CareerCopilot
 
 **Resume-Aware Job Application Companion**
@@ -48,20 +62,6 @@ class KeyaSonaiya:
 
 `LangGraph` `LangChain` `RAG`
 `FastAPI` `Next.js` `Ollama`
-
-</td>
-<td width="33%" valign="top" align="center">
-
-### 🫁 Pneumonia Detection
-
-**Explainable AI for Chest X-Ray Diagnosis**
-
-[![Repo](https://img.shields.io/badge/View%20Repo-%237c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keya-sonaiya/Pneumonia-Detection)
-
-<p align="justify">DenseNet121 classifier with two-stage fine-tuning reaching <strong>93% accuracy · 0.97 recall · 0.94 F1</strong>. Occlusion Sensitivity heatmaps make every prediction interpretable for clinicians.</p>
-
-`DenseNet121` `TensorFlow`
-`Explainable AI` `FastAPI` `Next.js`
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -85,6 +85,19 @@ class KeyaSonaiya:
 
 ---
 
+## 💼 Work Experience
+
+<br/>
+
+| Role | Company | Duration |
+|---|---|---|
+| AI/ML Intern | Sparks To Ideas, Ahmedabad | May 2026 – June 2026 |
+| Flutter Developer Intern | Sparks To Ideas, Ahmedabad | May 2025 – June 2025 |
+
+<br/>
+
+---
+
 ## ⚡ Tech Stack
 
 <br/>
@@ -93,20 +106,14 @@ class KeyaSonaiya:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 **AI / ML & Data Science**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-009B72?style=for-the-badge&logo=lightgbm&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 
 **Generative AI & LLMs**
 
@@ -126,10 +133,17 @@ class KeyaSonaiya:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🎓 Education
+
+**Charotar University of Science and Technology (CHARUSAT)**, Changa, Anand
+B.Tech in Computer Science and Engineering | CGPA: 9.22/10 | 2023 – 2027
 
 ---
 
@@ -138,9 +152,16 @@ class KeyaSonaiya:
 | Certificate | Issuer | Year |
 |---|---|---|
 | 🧠 Deep Learning Specialization | DeepLearning.AI · Coursera | 2026 |
-| 📊 IBM Machine Learning Professional | IBM · Coursera | 2025 |
-| ⚙️ DevOps, Agile & Scrum Foundations | Coursera | 2025 |
-| 🗄️ DBMS — Elite, NPTEL | IIT / NPTEL | 2025 |
+| 📊 IBM Machine Learning Professional Certificate | IBM · Coursera | 2025 |
+| 🗄️ Database Management Systems (DBMS) — Elite (62%) | NPTEL | 2025 |
+
+<br/>
+
+---
+
+## 🏆 Achievements
+
+- Selected for **Amazon Machine Learning Summer School (MLSS) 2026**
 
 <br/>
 
