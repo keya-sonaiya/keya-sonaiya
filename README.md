@@ -21,7 +21,7 @@ class KeyaSonaiya:
     role        = "Final-year CS Student @ CHARUSAT  |  CGPA 9.22/10"
     location    = "Jamnagar, Gujarat, India 🇮🇳"
     worked_on   = ["Agentic AI", "RAG Systems", "LLMs", "Generative AI",
-                   "Deep Learning", "NLP", "Probabilistic Forecasting"]
+                   "Process Automation", "Deep Learning", "NLP", "Probabilistic Forecasting"]
     building    = "Production-ready AI systems that solve real problems"
     available   = True   # open to internships & full time opportunities
 ```
@@ -36,7 +36,21 @@ class KeyaSonaiya:
 
 <table>
 <tr>
-<td width="33%" valign="top" align="center">
+<td width="50%" valign="top" align="center">
+
+### 🧾 AI-Powered AP Automation
+
+**Procure-to-Pay Invoice Processing System**
+
+[![Repo](https://img.shields.io/badge/View%20Repo-%237c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keya-sonaiya/AI-Powered-Payable-Automation)
+
+<p align="justify">End-to-end Accounts Payable automation aligned with the P2P workflow. Extracts invoice data with OCR, retrieves policy context via RAG, and performs three-way matching. A rule-based engine handles approvals, exceptions, and duplicate detection, with PostgreSQL audit trails and n8n workflow orchestration.</p>
+
+`FastAPI` `Ollama` `Tesseract OCR` `ChromaDB`
+`PostgreSQL` `n8n` `Next.js` `Docker`
+
+</td>
+<td width="50%" valign="top" align="center">
 
 ### 🧠 Adaptive Research Agent
 
@@ -50,7 +64,9 @@ class KeyaSonaiya:
 `SQLite` `Next.js`
 
 </td>
-<td width="33%" valign="top" align="center">
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
 
 ### 🤖 CareerCopilot
 
@@ -64,7 +80,7 @@ class KeyaSonaiya:
 `FastAPI` `Next.js` `Ollama`
 
 </td>
-<td width="33%" valign="top" align="center">
+<td width="50%" valign="top" align="center">
 
 ### 📈 Time Series Forecasting
 
@@ -133,7 +149,9 @@ class KeyaSonaiya:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
